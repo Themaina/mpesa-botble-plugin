@@ -1,0 +1,10 @@
+{
+    "name": "M-Pesa Payment",
+    "description": "Handles M-Pesa STK Push payments for checkout.",
+    "author": "zeex",
+    "url": "https://zeex.co.ke",
+    "version": "1.0.0",
+    "namespace": "Botble\\Mpesa\\",
+    "provider": "Botble\\Mpesa\\Providers\\MpesaServiceProvider"
+  }
+  
